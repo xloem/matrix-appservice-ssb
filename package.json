@@ -1,0 +1,22 @@
+{
+  "name": "matrix-appservice-ssb",
+  "version": "0.1.0",
+  "description": "A Scuttlebutt Bridge for Matrix",
+  "main": "app.js",
+  "scripts": {
+    "test": "./bin/matrix-appservice-ssb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xloem/matrix-appservice-ssb.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/xloem/matrix-appservice-ssb/issues"
+  },
+  "homepage": "https://github.com/xloem/matrix-appservice-ssb#readme",
+  "dependencies": {
+    "matrix-appservice-bridge": "^1.7.0"
+  }
+}
